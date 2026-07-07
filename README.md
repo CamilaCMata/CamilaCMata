@@ -145,12 +145,11 @@ Topics include:
 
 ## GitHub Statistics
 
+![](https://github-readme-stats.vercel.app/api?username=CamilaCMata&show_icons=true&theme=github_dark&rank_icon=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamilaCMata&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCMata&layout=compact&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCMata&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CamilaCMata&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=CamilaCMata&theme=github-dark-blue)
 
 ---
 
